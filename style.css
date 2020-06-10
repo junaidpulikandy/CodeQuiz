@@ -1,0 +1,30 @@
+.heading{
+    padding:20px;
+}
+.theInput{
+    padding:20px;
+    font-family: "Times New Roman", Times, Sans-serif;
+    font-size:large;
+    height: 300px;
+    width: 100%;
+    background-color: linen;
+}
+.startButton{
+    padding: 30px;
+}
+.nextbutton{
+    padding: 20px;
+}
+#timeUp{
+    font-family: "Times New Roman", Times, Sans-serif;
+    font-size:x-large;
+}
+#quizOver{
+    font-family: "Times New Roman", Times, Sans-serif;
+    font-size:x-large;
+}
+
+
+
+
+
